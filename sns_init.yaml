@@ -92,7 +92,7 @@ NnsProposal:
     The governance model includes staking, voting, and other relevant details.
     The minimum amount of SNS tokens to stake a neuron is 10.
     The minimum dissolve delay for a neuron to cast votes on proposals is 1 month and the maxmimum dissolve delay is 2 years.
-    ## Decentralization Sawap
+    ## Decentralization Swap
     * Minimum number of participants: 500
     * Minimum raised through direct participation: 300_000 ICP
     * Maximum raised through direct participation: 900_000 ICP
